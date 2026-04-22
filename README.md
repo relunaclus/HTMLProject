@@ -54,7 +54,7 @@ When the Actor is placed in the scene and the play button is pressed, the string
 
 ---
 
-## 3. Outcome (≈150 words)
+## 3. Outcome 
 
 The final result collects the data from a locally hosted website that uses Python to collect my computer's used disk space as a percentage and lists it inside of Unreal. This completes the requirements of the task, as I have used an HTTP Request to collect data from a locally hosted website that I created, and Unreal Engine displays the collected data from this website as a string when the level begins.
 
